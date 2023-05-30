@@ -94,3 +94,8 @@ export * from './components/payments/update-address.svelte';
 
 // Shared
 export * from './components/ui/loading-spinner.svelte';
+
+
+// Chat
+export * from './components/chat/chat-ui.svelte';
+

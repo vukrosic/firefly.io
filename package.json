@@ -30,7 +30,7 @@
     "algoliasearch": "^4.14.2",
     "atomic-algolia": "^0.3.17",
     "autoprefixer": "^10.4.8",
-    "concurrently": "^7.3.0",
+    "concurrently": "^7.6.0",
     "eslint": "^8.23.0",
     "firebase": "^9.9.2",
     "firebase-tools": "^11.11.0",
@@ -46,5 +46,8 @@
     "typescript": "^4.5.4",
     "vite": "^3.0.5",
     "youtube-player": "^5.5.2"
+  },
+  "dependencies": {
+    "svelte-markdown": "^0.2.3"
   }
 }
