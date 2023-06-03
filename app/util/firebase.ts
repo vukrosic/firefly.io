@@ -1,12 +1,12 @@
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const config = {
-  apiKey: "AIzaSyBns4UUCKIfb_3xOesTSezA9GbEyuIU7XA",
-  authDomain: "fireship-app.firebaseapp.com",
-  databaseURL: "https://fireship-app.firebaseio.com",
-  projectId: "fireship-app",
-  storageBucket: "fireship-app.appspot.com",
-  messagingSenderId: "176605045081",
-  appId: "1:176605045081:web:d87a63bd943e3032",
-  measurementId: "G-VTJV5CVC6K"
+  apiKey: "AIzaSyAy2kj5vABLbWFbcaK9cKRX19ldkSE3B1c",
+  authDomain: "personal-teacher-gpt.firebaseapp.com",
+  projectId: "personal-teacher-gpt",
+  storageBucket: "personal-teacher-gpt.appspot.com",
+  messagingSenderId: "266393942599",
+  appId: "1:266393942599:web:bd61bb3cd9386f58f60f62",
+  measurementId: "G-MQKS8Q0E02"
 };
 
 import { toast } from '../stores/toast';

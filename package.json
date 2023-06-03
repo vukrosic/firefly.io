@@ -36,10 +36,12 @@
     "firebase-tools": "^11.11.0",
     "flamethrower-router": "^0.0.0-meme.12",
     "js-confetti": "^0.10.2",
+    "mdsvex": "^0.10.6",
     "postcss": "^8.4.16",
     "sass": "^1.54.4",
     "svelte": "^3.49.0",
     "svelte-check": "^2.2.7",
+    "svelte-highlight": "^7.3.0",
     "svelte-preprocess": "^4.10.7",
     "tailwindcss": "^3.1.8",
     "tslib": "^2.3.1",
@@ -48,6 +50,11 @@
     "youtube-player": "^5.5.2"
   },
   "dependencies": {
-    "svelte-markdown": "^0.2.3"
+    "highlight.js": "^11.8.0",
+    "markdown-it": "^13.0.1",
+    "marked": "^5.0.4",
+    "prismjs": "^1.29.0",
+    "svelte-markdown": "^0.2.3",
+    "svelte-prism": "^1.1.6"
   }
 }
